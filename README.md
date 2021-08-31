@@ -5,6 +5,8 @@
 
 This project is a car park, where the rate is charged by the hour, after spending 12 hours parked a daily rate will be charged, this rate will be added to the country's tax. In this project we will make an example using interfaces and not using
 
+This program is intended to be basic, just to demonstrate the use of the interfaces
+
 # Problem example
 
 ![Web 1](https://github.com/phmeyreles/parking/blob/master/images/ProblemExample.PNG)
